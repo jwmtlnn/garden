@@ -1,4 +1,9 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Research Garden]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://jwmtlnn.github.io/garden/</link><image><url>https://jwmtlnn.github.io/garden/lib/media/favicon.png</url><title>Research Garden</title><link>https://jwmtlnn.github.io/garden/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 07 Mar 2025 21:06:47 GMT</lastBuildDate><atom:link href="https://jwmtlnn.github.io/garden/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 07 Mar 2025 21:06:46 GMT</pubDate><copyright><![CDATA[Janne W. Matilainen]]></copyright><ttl>60</ttl><dc:creator>Janne W. Matilainen</dc:creator><item><title><![CDATA[@bignettiActornetworkTheoryMethodological2023]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Research Garden]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://jwmtlnn.github.io/garden/</link><image><url>https://jwmtlnn.github.io/garden/lib/media/favicon.png</url><title>Research Garden</title><link>https://jwmtlnn.github.io/garden/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 07 Mar 2025 21:27:30 GMT</lastBuildDate><atom:link href="https://jwmtlnn.github.io/garden/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 07 Mar 2025 21:27:29 GMT</pubDate><copyright><![CDATA[Janne W. Matilainen]]></copyright><ttl>60</ttl><dc:creator>Janne W. Matilainen</dc:creator><item><title><![CDATA[Framework]]></title><description><![CDATA[ 
+ <br>Title
+Not an exhaustive listing. Includes the most influential literature and their relevance to the study. Categories may overlap.
+<br><br><br><br><br><br><br><br><br><br><br>]]></description><link>https://jwmtlnn.github.io/garden/literature-survey/literature-tables.html</link><guid isPermaLink="false">Literature Survey/Literature Tables.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Fri, 07 Mar 2025 21:15:59 GMT</pubDate></item><item><title><![CDATA[Index]]></title><description><![CDATA[ 
+ <br>hello world<br>Testiviittaus:<br>
+<a data-href="@latourReassemblingSocialIntroduction2005" href="https://jwmtlnn.github.io/garden/zotero_literaturenotes/@latourreassemblingsocialintroduction2005.html" class="internal-link" target="_self" rel="noopener nofollow">@latourReassemblingSocialIntroduction2005</a>]]></description><link>https://jwmtlnn.github.io/garden/index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Fri, 07 Mar 2025 21:26:15 GMT</pubDate></item><item><title><![CDATA[@bignettiActornetworkTheoryMethodological2023]]></title><description><![CDATA[ 
  <br>Cite
 Bignetti, B., De Souza, A. C. A. A., &amp; Petrini, M. (2023). Actor-network theory: Methodological issues in practice. Qualitative Research in Organizations and Management: An International Journal, 18(2), 142–162. <a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1108/QROM-05-2022-2337" target="_blank">https://doi.org/10.1108/QROM-05-2022-2337</a>
 <br>Synth
@@ -228,10 +233,7 @@ Note<br>
 {% endfor %}<br>
 {% endif %}<br>
 {% endpersist %}
-]]></description><link>https://jwmtlnn.github.io/garden/zotero_literaturenotes/template.html</link><guid isPermaLink="false">zotero_literaturenotes/template.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Mon, 03 Mar 2025 18:29:35 GMT</pubDate></item><item><title><![CDATA[Framework]]></title><description><![CDATA[ 
- <br>Title
-Not an exhaustive listing. Includes the most influential literature and their relevance to the study. Categories may overlap.
-<br><br><br><br><br><br><br><br><br><br><br>]]></description><link>literature-survey\literature-tables.html</link><guid isPermaLink="false">Literature Survey/Literature Tables.md</guid><dc:creator><![CDATA[Janne Matilainen]]></dc:creator><pubDate>Fri, 07 Mar 2025 17:35:03 GMT</pubDate></item><item><title><![CDATA[Research Plan]]></title><description><![CDATA[ 
+]]></description><link>https://jwmtlnn.github.io/garden/zotero_literaturenotes/template.html</link><guid isPermaLink="false">zotero_literaturenotes/template.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Mon, 03 Mar 2025 18:29:35 GMT</pubDate></item><item><title><![CDATA[Research Plan]]></title><description><![CDATA[ 
  <br>Updated
 7.3.2025
 <br>Summary
@@ -397,5 +399,4 @@ These grounds can be seen as a description of the social reality of innovation s
 Finnish UAS's RDI concepts actively contribute to the construction and realization of regional innovation systems
 <br>Unless<br>Rebuttal
 We deny this type of description having explanatory power over the social reality.
-]]></description><link>research-plan\toulmin-argument.html</link><guid isPermaLink="false">Research Plan/Toulmin Argument.md</guid><dc:creator><![CDATA[Janne Matilainen]]></dc:creator><pubDate>Fri, 07 Mar 2025 15:56:40 GMT</pubDate></item><item><title><![CDATA[Index]]></title><description><![CDATA[ 
- <br>hello world]]></description><link>index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Janne Matilainen]]></dc:creator><pubDate>Fri, 07 Mar 2025 20:43:14 GMT</pubDate></item></channel></rss>
+]]></description><link>research-plan\toulmin-argument.html</link><guid isPermaLink="false">Research Plan/Toulmin Argument.md</guid><dc:creator><![CDATA[Janne Matilainen]]></dc:creator><pubDate>Fri, 07 Mar 2025 15:56:40 GMT</pubDate></item></channel></rss>
