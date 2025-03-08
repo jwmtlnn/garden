@@ -1,9 +1,191 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Research Garden]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://jwmtlnn.github.io/garden/</link><image><url>https://jwmtlnn.github.io/garden/lib/media/favicon.png</url><title>Research Garden</title><link>https://jwmtlnn.github.io/garden/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 07 Mar 2025 21:27:30 GMT</lastBuildDate><atom:link href="https://jwmtlnn.github.io/garden/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 07 Mar 2025 21:27:29 GMT</pubDate><copyright><![CDATA[Janne W. Matilainen]]></copyright><ttl>60</ttl><dc:creator>Janne W. Matilainen</dc:creator><item><title><![CDATA[Framework]]></title><description><![CDATA[ 
- <br>Title
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Research Garden]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://jwmtlnn.github.io/garden/</link><image><url>https://jwmtlnn.github.io/garden/lib/media/favicon.png</url><title>Research Garden</title><link>https://jwmtlnn.github.io/garden/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 08 Mar 2025 19:57:02 GMT</lastBuildDate><atom:link href="https://jwmtlnn.github.io/garden/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 08 Mar 2025 19:57:00 GMT</pubDate><copyright><![CDATA[Janne W. Matilainen]]></copyright><ttl>60</ttl><dc:creator>Janne W. Matilainen</dc:creator><item><title><![CDATA[Digital Garden]]></title><description><![CDATA[ 
+ <br>Examples
+
+<br><a data-tooltip-position="top" aria-label="https://publish.obsidian.md/discretecs/START+HERE" rel="noopener nofollow" class="external-link" href="https://publish.obsidian.md/discretecs/START+HERE" target="_blank">Discrete Structures for Computer Science</a>
+
+<br>On discrete mathematics for computer science majors, by R. Talbert.
+
+
+<br><a data-tooltip-position="top" aria-label="https://patternlanguage.cc/" rel="noopener nofollow" class="external-link" href="https://patternlanguage.cc/" target="_blank">A Pattern Language</a>
+
+<br>Digitized C. Alexander's 1977 book on architecture, urban design and communities.
+
+
+<br><a data-tooltip-position="top" aria-label="https://scalingsynthesis.com/" rel="noopener nofollow" class="external-link" href="https://scalingsynthesis.com/" target="_blank">Scaling Synthesis</a>
+
+<br>A "living hypertext notebook" for a research project.
+
+
+
+]]></description><link>https://jwmtlnn.github.io/garden/literature-survey/methodology/digital-garden.html</link><guid isPermaLink="false">Literature Survey/Methodology/Digital Garden.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Sat, 08 Mar 2025 19:32:19 GMT</pubDate></item><item><title><![CDATA[Framework]]></title><description><![CDATA[ 
+ <br>Info
 Not an exhaustive listing. Includes the most influential literature and their relevance to the study. Categories may overlap.
-<br><br><br><br><br><br><br><br><br><br><br>]]></description><link>https://jwmtlnn.github.io/garden/literature-survey/literature-tables.html</link><guid isPermaLink="false">Literature Survey/Literature Tables.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Fri, 07 Mar 2025 21:15:59 GMT</pubDate></item><item><title><![CDATA[Index]]></title><description><![CDATA[ 
- <br>hello world<br>Testiviittaus:<br>
-<a data-href="@latourReassemblingSocialIntroduction2005" href="https://jwmtlnn.github.io/garden/zotero_literaturenotes/@latourreassemblingsocialintroduction2005.html" class="internal-link" target="_self" rel="noopener nofollow">@latourReassemblingSocialIntroduction2005</a>]]></description><link>https://jwmtlnn.github.io/garden/index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Fri, 07 Mar 2025 21:26:15 GMT</pubDate></item><item><title><![CDATA[@bignettiActornetworkTheoryMethodological2023]]></title><description><![CDATA[ 
+<br><br><br><br><br><br><br><br><br><br><br>]]></description><link>https://jwmtlnn.github.io/garden/literature-survey/literature-tables.html</link><guid isPermaLink="false">Literature Survey/Literature Tables.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Sat, 08 Mar 2025 19:42:21 GMT</pubDate></item><item><title><![CDATA[Research Plan]]></title><description><![CDATA[ 
+ <br>Last updated
+7.3.2025
+<br>Summary
+
+
+<br>Janne W. Matilainen (<a data-tooltip-position="top" aria-label="mailto:janne.matilainen@lapinamk.fi" rel="noopener nofollow" class="external-link" href="https://jwmtlnn.github.io/garden/mailto:janne.matilainen@lapinamk.fi" target="_blank">janne.matilainen@lapinamk.fi</a>)
+
+<br>University of Lapland - Faculty of Social Sciences
+<br>Lapland University of Applied Sciences - Smart Built Environment
+
+
+<br>Research field: Social Sciences - Management/Organization Studies
+<br>Keywords (YSO): actor-network theory, innovation system, innovation policy, regions, research and development operations, university of applied science
+
+<br><br>The Universities of Applied Sciences (UAS) in Finland have an applied and regional role in the Finnish innovation systems. Their research, development and innovation (RDI) activities are changing, gaining maturity and beginning to find their characteristic ways of operation. One of these ways are the service concepts branded around some core demand or competence, which conduct RDI in co-operation with small and medium enterprises (SME) utilizing applied and practical methods. Their purpose is to aid commercial actors with their industry-recognized problems to grow regional competitiveness.<br>
+This research aims to understand how these applied RDI service concepts work socio-technically, and to examine their role in their respective UAS and more broadly in regional and sectoral systems of innovation. The research adopts a social constructivist views of technical innovation to explain the inner workings of these RDI organizations in relation to relevant innovation systems. Main theoretical backgrounds and lenses are those of actor-network theory (ANT) and systems of innovation (SI).<br>
+The research is a case study with an ethnographic nature, based on actor-network theory, avoiding purely social or technological explanations. The study utilizes traditional qualitative methods associated with ethnographies. The case to be studied are the service concepts of TEQU and Frostbit in Lapland UAS. The deliverable result is a rich description about networks, interactions and translations in and with these technologically oriented RDI organizations and the relevant innovation systems.<br>
+These objectives can be valued as societal, as the UAS’s RDI role in the national innovation system is in motion. Innovation systems can be seen as complex networks of actors and institutions that interact to create, facilitate and disseminate knowledge. The impacts pursued with this study are to evoke discussion in both theoretical and societal dimensions. Theoretical discussions this research contributes are innovation management and diffusion of innovations. Societal discussion it partakes in is innovation policy and the role of UAS’s in innovation systems in Finland.<br><br><br>
+<br>Premise underpinning the research:
+
+<br>The project is a continuum of previous research done about Finnish UASs, RDI and innovation systems.
+<br>Research’s premise is that the Finnish UASs ways of practicing RDI with SME-oriented service concepts is interlinks and participates in building innovation systems and their competitiveness, and that instead of purely technological or academic work they construct solution-oriented socio-technical ensembles that differ from the more traditionally held linear innovation models.
+
+
+<br>Research questions: in the context of public-private RDI-activities performed by the Lapland UAS in regional settings.
+
+<br>What are the actor-networks of the RDI service concepts?
+
+<br>What do they consist of and how are they formed and maintained?
+<br>How they define goals and what leads to their perceived success or failure?
+<br>What are the key characteristics that enable or constrain their innovation processes?
+
+
+<br>How do they relate to some perceived "innovation systems"?
+
+<br>Do the RDI-activities enact innovation systems?
+<br>What is their role in regional competitiveness?
+<br>What kinds of models of innovation do they hold?
+
+
+
+
+<br>See attached <a data-href="Toulmin Argument" href="https://jwmtlnn.github.io/garden/research-plan/toulmin-argument.html" class="internal-link" target="_self" rel="noopener nofollow">Toulmin Argument</a>.
+<br>Expected research results:
+
+<br>The aim and objective of this project is to create an ANT and SI inspired rich socio-technical ethnographic description about these kinds of service concepts (possible case studies: TEQU &amp; Frostbit of Lapland UAS) in relation to and their roles in different systems of innovation.
+
+
+<br><br>
+<br>Work plan and schedule:
+
+<br>The project is to be done as a part-time research, working full-time with the Lapland UAS.
+<br>See <a data-tooltip-position="top" aria-label="https://timeline.markwhen.com#mw=Cj4gWyFOT1RFXSAKPiBXcml0dGVuIGluIFtNYXJrd2hlbl0oaHR0cHM6Ly9tYXJrd2hlbi5jb20vKSBsYW5ndWFnZS4gVmlzdWFsIHJlcHJlc2VudGF0aW9uIGluIE9iaXNpZGFuLXBsdWdpbiBhbmQgd2Vidmlld2VyLgoKZ3JvdXAgRm91bmRhdGlvbgoyMDI1LzIwMjUtMDY6IFJlc2VhcmNoIGRlc2lnbgoyMDI1OiBMaXRlcmF0dXJlIHN1cnZleQoyMDI1LzIwMjY6IFRVS08gQ291cnNlcwoyMDI2LzIwMjctMDY6IE90aGVyIENvdXJzZXMKZW5kZ3JvdXAKCmdyb3VwIERhdGEgYWNxdWlzaXRpb24KMjAyNS0wOC8yMDI3LTA2OiBPYnNlcnZhdGl2ZQoyMDI2OiBJbnRlcnZpZXdzIGFuZCBzdXJ2ZXlzCjIwMjYvMjAyNzogRG9jdW1lbnRzCmVuZGdyb3VwCgpncm91cCBBbmFseXNpcwoyMDI2LTA2LzIwMjc6IEFuYWx5c2lzCjIwMjctMDYvMjAyOC0wNTpEZXNjcmlwdGlvbiBmb3JtYXRpb24KZW5kZ3JvdXAKCmdyb3VwIFB1YmxpY2F0aW9ucwoyMDI4OiBNb25vZ3JhcGgKMjAyNjogV2lkZS1hdWQuIEUvRAoyMDI3OiBQcm9mLiBEL0IKMDQvMjAyNS0yMDI4OiBEaWdpdGFsIEdhcmRlbgplbmRncm91cA==" rel="noopener nofollow" class="external-link" href="https://timeline.markwhen.com#mw=Cj4gWyFOT1RFXSAKPiBXcml0dGVuIGluIFtNYXJrd2hlbl0oaHR0cHM6Ly9tYXJrd2hlbi5jb20vKSBsYW5ndWFnZS4gVmlzdWFsIHJlcHJlc2VudGF0aW9uIGluIE9iaXNpZGFuLXBsdWdpbiBhbmQgd2Vidmlld2VyLgoKZ3JvdXAgRm91bmRhdGlvbgoyMDI1LzIwMjUtMDY6IFJlc2VhcmNoIGRlc2lnbgoyMDI1OiBMaXRlcmF0dXJlIHN1cnZleQoyMDI1LzIwMjY6IFRVS08gQ291cnNlcwoyMDI2LzIwMjctMDY6IE90aGVyIENvdXJzZXMKZW5kZ3JvdXAKCmdyb3VwIERhdGEgYWNxdWlzaXRpb24KMjAyNS0wOC8yMDI3LTA2OiBPYnNlcnZhdGl2ZQoyMDI2OiBJbnRlcnZpZXdzIGFuZCBzdXJ2ZXlzCjIwMjYvMjAyNzogRG9jdW1lbnRzCmVuZGdyb3VwCgpncm91cCBBbmFseXNpcwoyMDI2LTA2LzIwMjc6IEFuYWx5c2lzCjIwMjctMDYvMjAyOC0wNTpEZXNjcmlwdGlvbiBmb3JtYXRpb24KZW5kZ3JvdXAKCmdyb3VwIFB1YmxpY2F0aW9ucwoyMDI4OiBNb25vZ3JhcGgKMjAyNjogV2lkZS1hdWQuIEUvRAoyMDI3OiBQcm9mLiBEL0IKMDQvMjAyNS0yMDI4OiBEaWdpdGFsIEdhcmRlbgplbmRncm91cA==" target="_blank">attached link</a> to the Gantt-chart.
+
+
+<br>Research data and methods:
+
+<br>Observation notes, interviews, surveys and public &amp; internal documents.
+<br>The rich description is constructed with qualitative ethnographic methods, utilizing an actor-network theory -type of framework. The data to form this description is collected with participative and non-participative observations, interviews and surveys. Document analysis is also used to aid and supplement the qualitative interpretation.
+<br>No codified preliminary data, but a six-year working experience about the RDI service concepts in question, which hastens the formal observatory methods’ implementation.
+<br>Short comparative or enriching inquiries about The Research Institute of Measuring and Modelling for the Built Environment (MeMo) and Jamk University of Applied Sciences are also possible.
+<br>Informed consent is gathered from the participants, and their right and ways to modify or withdraw that consent is informed and ensured. Data considering any participants/subjects is anonymized and handled according to good practices on the type of data in question.
+
+
+<br>Monograph:
+
+<br>A body of texts will be produced in hypertext/markdown format in Obisidian environment.
+<br>Interlinked body of hypertext builds a type of a "Wiki" or "pattern language" about the research. The monograph will be compiled mainly from these texts.
+
+
+<br>Risk assessment:
+
+<br>Main risk for implementation is the possible delay of the project due to part-time research. The research is thus designed to have as little timing-sensitive parts as possible, to enable flexible and resilient implementation.
+<br>No ethical issues or ethical reviews foreseen. Self- and faculty monitoring practiced.
+
+
+<br><br>
+<br>Scientific:
+
+<br>The scientific impact pursued with this research is to “open the black box” of RDI in Finnish UASs in regional systems of innovation. It aims to renew the discussion about technically oriented RDI work in these types of institutions and their stakeholders, with not purely technological or social reasons, but taking to account them both.
+<br>According to bibliometric searches there is little research about these types of organizations in frameworks of ANT and management, but the project is not novel as an ANT or STS study and no special potential for scientific breakthroughs is expected.
+
+
+<br>Open science:
+
+<br>Open-access wide-audience publication (publ. type E/D) at the start/mid phase of the project to market the project and promote societal discussion. Lapland University Consortium open-access channels are preferred, in Finnish.
+<br>One publication in wider-audience professional or scientific publication (publ. type D/B). Open-access publications considering Universities of Applied Sciences are preferred, joint publication with stakeholders or academic partners favored, in Finnish or English.
+<br>Open-access publishing of Obsidian library/vault as a "digital garden", to communicate the research "in the making".
+
+
+<br>Beyond academia:
+
+<br>Discussion with Universities of Applied Sciences, Regional Councils and other RDI funders, SME's and RDI policy makers are promoted.
+
+
+]]></description><link>https://jwmtlnn.github.io/garden/research-plan/research-plan.html</link><guid isPermaLink="false">Research Plan/Research Plan.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Sat, 08 Mar 2025 19:50:33 GMT</pubDate></item><item><title><![CDATA[Table of Contents for Monograph]]></title><description><![CDATA[<a class="tag" href="https://jwmtlnn.github.io/garden/?query=tag:partiallyAIgenerated" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#partiallyAIgenerated</a> 
+ <br>Caution
+DRAFT 28.12.2024 <a href="https://jwmtlnn.github.io/garden?query=tag:partiallyAIgenerated" class="tag" target="_blank" rel="noopener nofollow">#partiallyAIgenerated</a> 
+<br><br>
+<br>Background, Context and Intentions: Sets the stage for the research topic, its significance and potential impact.
+
+<br>Scope of this Research: Defines the scope and focus to provide direction, discussions it participates and justifications for the research.
+<br>Research Questions: Clearly states the central research questions guiding the study.
+
+
+<br>Conceptual Framework: Briefly outlines the chosen theoretical lenses/frameworks and their relations and justifies their use.
+
+<br>Background Theory:
+<br>Focal Theory:
+<br>Data Theory:
+
+
+<br>On Form and Content: Elaborates and comments on the structure, contents and style of the dissertation.
+<br><br>
+<br>Overview of Relevant Literature: Reviews existing literature related to the research topic and chosen approach.
+
+<br>Introduction to Systems of Innovation: Briefly outlines SI framework, including core tenets like systems thinking and interdependencies.
+
+<br>Introduction to Actor-Network Theory: Briefly outlines the core tenets of ANT, including key concepts and their application to study Systems of Innovation.
+
+
+
+
+<br>Applications in Previous Research: Reviews existing research related to the research topic using similar approaches.
+<br>Critical Engagement: Discusses key debates and critiques within ANT scholarship, supplemented with SI and NM and their alternative perspectives.
+<br><br>
+<br>Research Design: Describes the chosen research approach (e.g., ethnography, case study etc.).
+
+<br>Case Study: Introduces the specific case or phenomenon under investigation.
+
+
+<br>Data Collection: Details the methods used to gather data (e.g., interviews, non-/participative observations, document analysis).
+<br>Data Analysis: Explains how data will be analyzed through an ANT lens (e.g., identifying actants, mapping networks, analyzing translation processes) and how it identifies the innovation system.
+<br>Ethical Considerations:
+<br><br>
+<br>Presentation of Empirical Findings: 
+<br>Tracing the Networks Dynamics: Analyzes how the actants interact, form alliances, and influence each other within the network.
+<br>Translation and Inscription Processes: Identifies and analyzes how meanings, interests, and resources are translated between actants.
+<br>Key Events and Transformations:
+<br><br>
+<br>Findings and Interpretations: Summarizes the key findings of the study and discusses their implications in the light of chosen approach.
+<br>Theoretical and Practical Implications:
+
+<br>To the Field of Study: Explains how the study contributes to the development and application of ANT and SI and discusses the broader implications of the findings for the relevant field of study.
+<br>To the UAS' and Policy Makers:
+
+
+<br>Limitations of the Study: and FRIN
+<br><br>
+<br>Summary of Key Findings: Briefly restates the main findings and contributions of the study compared to the research questions.
+<br>Concluding Remarks: Offers final thoughts and reflections on the research, limitations, and potential avenues for future research.
+]]></description><link>https://jwmtlnn.github.io/garden/research-plan/table-of-contents-for-monograph.html</link><guid isPermaLink="false">Research Plan/Table of Contents for Monograph.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Sat, 08 Mar 2025 19:40:29 GMT</pubDate></item><item><title><![CDATA[Toulmin Argument]]></title><description><![CDATA[ 
+ <br>Grounds
+Empirical observations reveal a network of heterogenous actors working in a setting that aims for the development of regional competitiveness.
+<br>And since<br>Warrant
+The flux of these actions constitutes as the practical enactment and materialization of social reality.
+<br>On account of<br>Backing
+Actor-network theory (and after) and innovation system studies.
+<br>And because<br>Qualifier
+These grounds can be seen as a description of the social reality of innovation systems.
+<br>So<br>Claim
+Finnish UAS's RDI concepts actively contribute to the construction and realization of regional innovation systems
+<br>Unless<br>Rebuttal
+We deny this type of description having explanatory power over the social reality.
+]]></description><link>https://jwmtlnn.github.io/garden/research-plan/toulmin-argument.html</link><guid isPermaLink="false">Research Plan/Toulmin Argument.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Fri, 07 Mar 2025 15:56:40 GMT</pubDate></item><item><title><![CDATA[@bignettiActornetworkTheoryMethodological2023]]></title><description><![CDATA[ 
  <br>Cite
 Bignetti, B., De Souza, A. C. A. A., &amp; Petrini, M. (2023). Actor-network theory: Methodological issues in practice. Qualitative Research in Organizations and Management: An International Journal, 18(2), 142–162. <a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1108/QROM-05-2022-2337" target="_blank">https://doi.org/10.1108/QROM-05-2022-2337</a>
 <br>Synth
@@ -233,170 +415,29 @@ Note<br>
 {% endfor %}<br>
 {% endif %}<br>
 {% endpersist %}
-]]></description><link>https://jwmtlnn.github.io/garden/zotero_literaturenotes/template.html</link><guid isPermaLink="false">zotero_literaturenotes/template.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Mon, 03 Mar 2025 18:29:35 GMT</pubDate></item><item><title><![CDATA[Research Plan]]></title><description><![CDATA[ 
- <br>Updated
-7.3.2025
-<br>Summary
+]]></description><link>https://jwmtlnn.github.io/garden/zotero_literaturenotes/template.html</link><guid isPermaLink="false">zotero_literaturenotes/template.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Mon, 03 Mar 2025 18:29:35 GMT</pubDate></item><item><title><![CDATA[Index]]></title><description><![CDATA[ 
+ <br><br>This website is for publishing my research project while it happens. During the research i build a body of texts in a format of <a data-tooltip-position="top" aria-label="https://www.w3.org/WhatIs.html" rel="noopener nofollow" class="external-link" href="https://www.w3.org/WhatIs.html" target="_blank">hypertext</a>, with a language called <a data-tooltip-position="top" aria-label="https://www.markdownguide.org/getting-started/" rel="noopener nofollow" class="external-link" href="https://www.markdownguide.org/getting-started/" target="_blank">Markdown</a>. What that means, is that these texts link into each other constituting a non-linear repository where the contents relate to each other. For a taste of this you can jump straight into my <a data-href="Research Plan" href="https://jwmtlnn.github.io/garden/research-plan/research-plan.html" class="internal-link" target="_self" rel="noopener nofollow">Research Plan</a> or see examples of similar (way fancier) implementations in the <a data-href="Digital Garden" href="https://jwmtlnn.github.io/garden/literature-survey/methodology/digital-garden.html" class="internal-link" target="_self" rel="noopener nofollow">Digital Garden</a> text.<br>All of this is managed in a personal knowledge base system called <a data-tooltip-position="top" aria-label="https://obsidian.md/" rel="noopener nofollow" class="external-link" href="https://obsidian.md/" target="_blank">Obsidian</a>. This repository in Obsidian is called a Vault. When it's published, it can be described with terms such as <a data-tooltip-position="top" aria-label="https://maggieappleton.com/garden-history/" rel="noopener nofollow" class="external-link" href="https://maggieappleton.com/garden-history/" target="_blank">Digital Garden</a>, <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Pattern_language" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Pattern_language" target="_blank">Pattern Language</a> or even Wiki. This site has been translated straight from my Obsidian Vault into a WWW-publishable HTML with Nathan George's <a data-tooltip-position="top" aria-label="https://github.com/KosmosisDire/obsidian-webpage-export?tab=readme-ov-file" rel="noopener nofollow" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export?tab=readme-ov-file" target="_blank">HTML Export Plugin</a>. It is then hosted in and published with <a data-tooltip-position="top" aria-label="https://github.com/about" rel="noopener nofollow" class="external-link" href="https://github.com/about" target="_blank">GitHub</a> and it's Pages functionality. <br>Info
+Not everything that i produce will be published. This site itself is a static epoch of my Vault and has to be updated into the web whenever needed.
+The project has been started: 1.1.2025<br>
+Last web update: 8.3.2025
+<br>Caution
+The functionalities of this website are not perfect. Due to technical restrictions of the plugin when translating from Obsidian flavoured Markdown to HTML (with all the third-party plugins that i use), it does not mirror my Vault perfectly. Main problems being:
+
+<br>Citations are presented as Pandoc format citation keys instead of human-readable citations
+
+<br>f.e. [@latourScienceActionHow1987] and not (Latour 1987)
 
 
-<br>Janne W. Matilainen (<a data-tooltip-position="top" aria-label="mailto:janne.matilainen@lapinamk.fi" rel="noopener nofollow" class="external-link" href="mailto:janne.matilainen@lapinamk.fi" target="_blank">janne.matilainen@lapinamk.fi</a>)
+<br>Site's layout has it's quirks
 
-<br>University of Lapland - Faculty of Social Sciences
-<br>Lapland University of Applied Sciences - Smart Built Environment
-
-
-<br>Research field: Social Sciences - Management/Organization Studies
-<br>Keywords (YSO): actor-network theory, innovation system, innovation policy, regions, research and development operations, university of applied science
-
-<br><br>The Universities of Applied Sciences (UAS) in Finland have an applied and regional role in the Finnish innovation systems. Their research, development and innovation (RDI) activities are changing, gaining maturity and beginning to find their characteristic ways of operation. One of these ways are the service concepts branded around some core demand or competence, which conduct RDI in co-operation with small and medium enterprises (SME) utilizing applied and practical methods. Their purpose is to aid commercial actors with their industry-recognized problems to grow regional competitiveness.<br>
-This research aims to understand how these applied RDI service concepts work socio-technically, and to examine their role in their respective UAS and more broadly in regional and sectoral systems of innovation. The research adopts a social constructivist views of technical innovation to explain the inner workings of these RDI organizations in relation to relevant innovation systems. Main theoretical backgrounds and lenses are those of actor-network theory (ANT) and systems of innovation (SI).<br>
-The research is a case study with an ethnographic nature, based on actor-network theory, avoiding purely social or technological explanations. The study utilizes traditional qualitative methods associated with ethnographies. The case to be studied are the service concepts of TEQU and Frostbit in Lapland UAS. The deliverable result is a rich description about networks, interactions and translations in and with these technologically oriented RDI organizations and the relevant innovation systems.<br>
-These objectives can be valued as societal, as the UAS’s RDI role in the national innovation system is in motion. Innovation systems can be seen as complex networks of actors and institutions that interact to create, facilitate and disseminate knowledge. The impacts pursued with this study are to evoke discussion in both theoretical and societal dimensions. Theoretical discussions this research contributes are innovation management and diffusion of innovations. Societal discussion it partakes in is innovation policy and the role of UAS’s in innovation systems in Finland.<br><br><br>
-<br>Premise underpinning the research:
-
-<br>The project is a continuum of previous research done about Finnish UASs, RDI and innovation systems.
-<br>Research’s premise is that the Finnish UASs ways of practicing RDI with SME-oriented service concepts is interlinks and participates in building innovation systems and their competitiveness, and that instead of purely technological or academic work they construct solution-oriented socio-technical ensembles that differ from the more traditionally held linear innovation models.
-
-
-<br>Research questions: in the context of public-private RDI-activities performed by the Lapland UAS in regional settings
-
-<br>What are the actor-networks of the RDI service concepts?
-
-<br>What do they consist of and how are they formed and maintained?
-<br>How they define goals and what leads to their perceived success or failure?
-<br>What are the key characteristics that enable or constrain their innovation processes?
-
-
-<br>How do they relate to some perceived "innovation systems"?
-
-<br>Do the RDI-activities enact innovation systems?
-<br>What is their role in regional competitiveness?
-<br>What kinds of models of innovation do they hold?
+<br>f.e. some icons are bolded or inappropriately scaled and listings may have unnecessary line breaks
 
 
 
-
-<br>See attached <a data-href="Toulmin Argument" href="research-plan\toulmin-argument.html" class="internal-link" target="_self" rel="noopener nofollow">Toulmin Argument</a>
-<br>Expected research results:
-
-<br>The aim and objective of this project is to create an ANT and SI inspired rich socio-technical ethnographic description about these kinds of service concepts (possible case studies: TEQU &amp; Frostbit of Lapland UAS) in relation to and their roles in different systems of innovation.
-
-
-<br><br>
-<br>Work plan and schedule:
-
-<br>The project is to be done as a part-time research, working full-time with the Lapland UAS.
-<br>See <a data-tooltip-position="top" aria-label="https://timeline.markwhen.com/#mw=Cgpncm91cCBGb3VuZGF0aW9uCjIwMjUvMjAyNS0wNjogUmVzZWFyY2ggZGVzaWduCjIwMjU6IExpdGVyYXR1cmUgcmV2aWV3CjIwMjUvMjAyNjogVFVLTyBDb3Vyc2VzICgyMCBFQ1RTKQplbmRncm91cAoKZ3JvdXAgRGF0YSBhY3F1aXNpdGlvbgoyMDI1LTA4LzIwMjctMDY6IE9ic2VydmF0aXZlCjIwMjY6IEludGVydmlld3MgYW5kIHN1cnZleXMKMjAyNi8yMDI3OiBEb2N1bWVudHMKZW5kZ3JvdXAKCmdyb3VwIEFuYWx5c2lzCjIwMjYtMDYvMjAyNzogQW5hbHlzaXMKMjAyNy0wNi8yMDI4LTA1OkRlc2NyaXB0aW9uIGZvcm1hdGlvbgplbmRncm91cAoKZ3JvdXAgUHVibGljYXRpb25zCjIwMjg6IE1vbm9ncmFwaAoyMDI2OiBXaWRlLWF1ZC4gRS9ECjIwMjc6IFByby4gRC9CCmVuZGdyb3Vw" rel="noopener nofollow" class="external-link" href="https://timeline.markwhen.com/#mw=Cgpncm91cCBGb3VuZGF0aW9uCjIwMjUvMjAyNS0wNjogUmVzZWFyY2ggZGVzaWduCjIwMjU6IExpdGVyYXR1cmUgcmV2aWV3CjIwMjUvMjAyNjogVFVLTyBDb3Vyc2VzICgyMCBFQ1RTKQplbmRncm91cAoKZ3JvdXAgRGF0YSBhY3F1aXNpdGlvbgoyMDI1LTA4LzIwMjctMDY6IE9ic2VydmF0aXZlCjIwMjY6IEludGVydmlld3MgYW5kIHN1cnZleXMKMjAyNi8yMDI3OiBEb2N1bWVudHMKZW5kZ3JvdXAKCmdyb3VwIEFuYWx5c2lzCjIwMjYtMDYvMjAyNzogQW5hbHlzaXMKMjAyNy0wNi8yMDI4LTA1OkRlc2NyaXB0aW9uIGZvcm1hdGlvbgplbmRncm91cAoKZ3JvdXAgUHVibGljYXRpb25zCjIwMjg6IE1vbm9ncmFwaAoyMDI2OiBXaWRlLWF1ZC4gRS9ECjIwMjc6IFByby4gRC9CCmVuZGdyb3Vw" target="_blank">attached link</a> to the Gantt-chart.
-
-
-<br>Research data and methods:
-
-<br>Observation notes, interviews, surveys and public &amp; internal documents.
-<br>The rich description is constructed with qualitative ethnographic methods, utilizing an actor-network theory -type of framework. The data to form this description is collected with participative and non-participative observations, interviews and surveys. Document analysis is also used to aid and supplement the qualitative interpretation.
-<br>No codified preliminary data, but a six-year working experience about the RDI service concepts in question, which hastens the formal observatory methods’ implementation.
-<br>Short comparative or enriching inquiries about The Research Institute of Measuring and Modelling for the Built Environment (MeMo) and Jamk University of Applied Sciences are also possible.
-<br>Informed consent is gathered from the participants, and their right and ways to modify or withdraw that consent is informed and ensured. Data considering any participants/subjects is anonymized and handled according to good practices on the type of data in question.
-
-
-<br>Monograph:
-
-<br>A body of texts will be produced in hypertext/markdown format in Obisidian environment.
-<br>Interlinked body of hypertext builds a type of a "Wiki" or "pattern language" about the research. The monograph will be compiled mainly from these texts.
-
-
-<br>Risk assessment:
-
-<br>Main risk for implementation is the possible delay of the project due to part-time research. The research is thus designed to have as little timing-sensitive parts as possible, to enable flexible and resilient implementation.
-<br>No ethical issues or ethical reviews foreseen. Self- and faculty monitoring practiced.
-
-
-<br><br>
-<br>Scientific:
-
-<br>The scientific impact pursued with this research is to “open the black box” of RDI in Finnish UASs in regional systems of innovation. It aims to renew the discussion about technically oriented RDI work in these types of institutions and their stakeholders, with not purely technological or social reasons, but taking to account them both.
-<br>According to bibliometric searches there is little research about these types of organizations in frameworks of ANT and management, but the project is not novel as an ANT or STS study and no special potential for scientific breakthroughs is expected.
-
-
-<br>Open science:
-
-<br>Open-access wide-audience publication (publ. type E/D) at the start/mid phase of the project to market the project and promote societal discussion. Lapland University Consortium open-access channels are preferred, in Finnish.
-<br>One publication in wider-audience professional or scientific publication (publ. type D/B). Open-access publications considering Universities of Applied Sciences are preferred, joint publication with stakeholders or academic partners favored, in Finnish or English.
-<br>Open-access publishing of Obsidian library/vault as a "digital garden", to communicate the research "in the making".
-
-
-<br>Beyond academia:
-
-<br>Discussion with Universities of Applied Sciences, Regional Councils and other RDI funders, SME's and RDI policy makers are promoted.
-
-
-]]></description><link>research-plan\research-plan.html</link><guid isPermaLink="false">Research Plan/Research Plan.md</guid><dc:creator><![CDATA[Janne Matilainen]]></dc:creator><pubDate>Fri, 07 Mar 2025 16:04:49 GMT</pubDate></item><item><title><![CDATA[Table of Contents for Monograph]]></title><description><![CDATA[<a class="tag" href="?query=tag:partiallyAIgenerated" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#partiallyAIgenerated</a> <a class="tag" href="?query=tag:gemini" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#gemini</a> 
- <br>Caution
-DRAFT 28.12.2024<br>
-<a href=".?query=tag:partiallyAIgenerated" class="tag" target="_blank" rel="noopener nofollow">#partiallyAIgenerated</a> with <a href=".?query=tag:gemini" class="tag" target="_blank" rel="noopener nofollow">#gemini</a>
-<br><br>
-<br>Background, Context and Intentions: Sets the stage for the research topic, its significance and potential impact.
-
-<br>Scope of this Research: Defines the scope and focus to provide direction, discussions it participates and justifications for the research.
-<br>Research Questions: Clearly states the central research questions guiding the study.
-
-
-<br>Conceptual Framework: Briefly outlines the chosen theoretical lenses/frameworks and their relations and justifies their use.
-
-<br>Background Theory:
-<br>Focal Theory:
-<br>Data Theory:
-
-
-<br>On Form and Content: Elaborates and comments on the structure, contents and style of the dissertation.
-<br><br>
-<br>Overview of Relevant Literature: Reviews existing literature related to the research topic and chosen approach.
-
-<br>Introduction to Systems of Innovation: Briefly outlines SI framework, including core tenets like systems thinking and interdependencies.
-
-<br>Introduction to Actor-Network Theory: Briefly outlines the core tenets of ANT, including key concepts and their application to study Systems of Innovation.
-
-
-
-
-<br>Applications in Previous Research: Reviews existing research related to the research topic using similar approaches.
-<br>Critical Engagement: Discusses key debates and critiques within ANT scholarship, supplemented with SI and NM and their alternative perspectives.
-<br><br>
-<br>Research Design: Describes the chosen research approach (e.g., ethnography, case study etc.).
-
-<br>Case Study: Introduces the specific case or phenomenon under investigation.
-
-
-<br>Data Collection: Details the methods used to gather data (e.g., interviews, non-/participative observations, document analysis).
-<br>Data Analysis: Explains how data will be analyzed through an ANT lens (e.g., identifying actants, mapping networks, analyzing translation processes) and how it identifies the innovation system.
-<br>Ethical Considerations:
-<br><br>
-<br>Presentation of Empirical Findings: 
-<br>Tracing the Networks Dynamics: Analyzes how the actants interact, form alliances, and influence each other within the network.
-<br>Translation and Inscription Processes: Identifies and analyzes how meanings, interests, and resources are translated between actants.
-<br>Key Events and Transformations:
-<br><br>
-<br>Findings and Interpretations: Summarizes the key findings of the study and discusses their implications in the light of chosen approach.
-<br>Theoretical and Practical Implications:
-
-<br>To the Field of Study: Explains how the study contributes to the development and application of ANT and SI and discusses the broader implications of the findings for the relevant field of study.
-<br>To the UAS' and Policy Makers:
-
-
-<br>Limitations of the Study: and FRIN
-<br><br>
-<br>Summary of Key Findings: Briefly restates the main findings and contributions of the study compared to the research questions.
-<br>Concluding Remarks: Offers final thoughts and reflections on the research, limitations, and potential avenues for future research.
-]]></description><link>research-plan\table-of-contents-for-monograph.html</link><guid isPermaLink="false">Research Plan/Table of Contents for Monograph.md</guid><dc:creator><![CDATA[Janne Matilainen]]></dc:creator><pubDate>Fri, 07 Mar 2025 19:14:33 GMT</pubDate></item><item><title><![CDATA[Toulmin Argument]]></title><description><![CDATA[ 
- <br>Grounds
-Empirical observations reveal a network of heterogenous actors working in a setting that aims for the development of regional competitiveness.
-<br>And since<br>Warrant
-The flux of these actions constitutes as the practical enactment and materialization of social reality.
-<br>On account of<br>Backing
-Actor-network theory (and after) and innovation system studies.
-<br>And because<br>Qualifier
-These grounds can be seen as a description of the social reality of innovation systems.
-<br>So<br>Claim
-Finnish UAS's RDI concepts actively contribute to the construction and realization of regional innovation systems
-<br>Unless<br>Rebuttal
-We deny this type of description having explanatory power over the social reality.
-]]></description><link>research-plan\toulmin-argument.html</link><guid isPermaLink="false">Research Plan/Toulmin Argument.md</guid><dc:creator><![CDATA[Janne Matilainen]]></dc:creator><pubDate>Fri, 07 Mar 2025 15:56:40 GMT</pubDate></item></channel></rss>
+<br>Contact
+Janne W. Matilainen<br>
+Lapland University Consortium<br>
+Rovaniemi, Lapland, Finland<br>
+66°28'51"N 25°43'18"E<br>
+<a data-tooltip-position="top" aria-label="mailto:janne.matilainen@lapinamk.fi" rel="noopener nofollow" class="external-link" href="https://jwmtlnn.github.io/garden/mailto:janne.matilainen@lapinamk.fi" target="_blank">janne.matilainen@lapinamk.fi</a>
+]]></description><link>https://jwmtlnn.github.io/garden/index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Sat, 08 Mar 2025 19:57:00 GMT</pubDate></item></channel></rss>
