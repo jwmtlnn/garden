@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Research Garden]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://jwmtlnn.github.io/garden/</link><image><url>https://jwmtlnn.github.io/garden/lib/media/favicon.png</url><title>Research Garden</title><link>https://jwmtlnn.github.io/garden/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 08 Mar 2025 19:57:02 GMT</lastBuildDate><atom:link href="https://jwmtlnn.github.io/garden/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 08 Mar 2025 19:57:00 GMT</pubDate><copyright><![CDATA[Janne W. Matilainen]]></copyright><ttl>60</ttl><dc:creator>Janne W. Matilainen</dc:creator><item><title><![CDATA[Digital Garden]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The Garden]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://jwmtlnn.github.io/garden/</link><image><url>https://jwmtlnn.github.io/garden/lib/media/favicon.png</url><title>The Garden</title><link>https://jwmtlnn.github.io/garden/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 08 Mar 2025 20:19:31 GMT</lastBuildDate><atom:link href="https://jwmtlnn.github.io/garden/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 08 Mar 2025 20:19:30 GMT</pubDate><copyright><![CDATA[Janne W. Matilainen]]></copyright><ttl>60</ttl><dc:creator>Janne W. Matilainen</dc:creator><item><title><![CDATA[Index]]></title><description><![CDATA[ 
+ <br><br>This website is for publishing my research project while it happens. During the research i build a body of texts in a format of <a data-tooltip-position="top" aria-label="https://www.w3.org/WhatIs.html" rel="noopener nofollow" class="external-link" href="https://www.w3.org/WhatIs.html" target="_blank">hypertext</a>, with a language called <a data-tooltip-position="top" aria-label="https://www.markdownguide.org/getting-started/" rel="noopener nofollow" class="external-link" href="https://www.markdownguide.org/getting-started/" target="_blank">Markdown</a>. What that means, is that these texts link into each other constituting a non-linear repository where the contents relate to each other. For a taste of this you can jump straight into my <a data-href="Research Plan" href="https://jwmtlnn.github.io/garden/research-plan/research-plan.html" class="internal-link" target="_self" rel="noopener nofollow">Research Plan</a> or see examples of similar (way fancier) implementations in the <a data-href="Digital Garden" href="https://jwmtlnn.github.io/garden/literature-survey/methodology/digital-garden.html" class="internal-link" target="_self" rel="noopener nofollow">Digital Garden</a> text.<br>All of this is managed in a personal knowledge base system called <a data-tooltip-position="top" aria-label="https://obsidian.md/" rel="noopener nofollow" class="external-link" href="https://obsidian.md/" target="_blank">Obsidian</a>. This repository in Obsidian is called a Vault. When it's published, it can be described with terms such as <a data-tooltip-position="top" aria-label="https://maggieappleton.com/garden-history/" rel="noopener nofollow" class="external-link" href="https://maggieappleton.com/garden-history/" target="_blank">Digital Garden</a>, <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Pattern_language" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Pattern_language" target="_blank">Pattern Language</a> or even Wiki. This site has been translated straight from my Obsidian Vault into a WWW-publishable HTML with Nathan George's <a data-tooltip-position="top" aria-label="https://github.com/KosmosisDire/obsidian-webpage-export?tab=readme-ov-file" rel="noopener nofollow" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export?tab=readme-ov-file" target="_blank">HTML Export Plugin</a>. It is then hosted in and published with <a data-tooltip-position="top" aria-label="https://github.com/about" rel="noopener nofollow" class="external-link" href="https://github.com/about" target="_blank">GitHub</a> and it's Pages functionality. <br>Info
+Not everything that i produce will be published. This site itself is a static epoch of my Vault and has to be updated into the web whenever needed.
+The project has been started: 1.1.2025<br>
+Last web update: 8.3.2025
+<br>Caution
+The functionalities of this website are not perfect. Due to technical restrictions of the plugin when translating from Obsidian flavoured Markdown to HTML (with all the third-party plugins that i use), it does not mirror my Vault perfectly. Main problems being:
+
+<br>Citations are presented as Pandoc format citation keys instead of human-readable citations
+
+<br>f.e. [@latourScienceActionHow1987] and not (Latour 1987)
+
+
+<br>Site's layout has it's quirks
+
+<br>f.e. some icons are bolded or inappropriately scaled and listings may have unnecessary line breaks
+
+
+
+<br>Contact
+Janne W. Matilainen<br>
+Lapland University Consortium<br>
+Rovaniemi, Lapland, Finland<br>
+66°28'51"N 25°43'18"E<br>
+<a data-tooltip-position="top" aria-label="mailto:janne.matilainen@lapinamk.fi" rel="noopener nofollow" class="external-link" href="https://jwmtlnn.github.io/garden/mailto:janne.matilainen@lapinamk.fi" target="_blank">janne.matilainen@lapinamk.fi</a>
+]]></description><link>https://jwmtlnn.github.io/garden/index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Sat, 08 Mar 2025 20:19:09 GMT</pubDate></item><item><title><![CDATA[Digital Garden]]></title><description><![CDATA[ 
  <br>Examples
 
 <br><a data-tooltip-position="top" aria-label="https://publish.obsidian.md/discretecs/START+HERE" rel="noopener nofollow" class="external-link" href="https://publish.obsidian.md/discretecs/START+HERE" target="_blank">Discrete Structures for Computer Science</a>
@@ -415,29 +440,4 @@ Note<br>
 {% endfor %}<br>
 {% endif %}<br>
 {% endpersist %}
-]]></description><link>https://jwmtlnn.github.io/garden/zotero_literaturenotes/template.html</link><guid isPermaLink="false">zotero_literaturenotes/template.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Mon, 03 Mar 2025 18:29:35 GMT</pubDate></item><item><title><![CDATA[Index]]></title><description><![CDATA[ 
- <br><br>This website is for publishing my research project while it happens. During the research i build a body of texts in a format of <a data-tooltip-position="top" aria-label="https://www.w3.org/WhatIs.html" rel="noopener nofollow" class="external-link" href="https://www.w3.org/WhatIs.html" target="_blank">hypertext</a>, with a language called <a data-tooltip-position="top" aria-label="https://www.markdownguide.org/getting-started/" rel="noopener nofollow" class="external-link" href="https://www.markdownguide.org/getting-started/" target="_blank">Markdown</a>. What that means, is that these texts link into each other constituting a non-linear repository where the contents relate to each other. For a taste of this you can jump straight into my <a data-href="Research Plan" href="https://jwmtlnn.github.io/garden/research-plan/research-plan.html" class="internal-link" target="_self" rel="noopener nofollow">Research Plan</a> or see examples of similar (way fancier) implementations in the <a data-href="Digital Garden" href="https://jwmtlnn.github.io/garden/literature-survey/methodology/digital-garden.html" class="internal-link" target="_self" rel="noopener nofollow">Digital Garden</a> text.<br>All of this is managed in a personal knowledge base system called <a data-tooltip-position="top" aria-label="https://obsidian.md/" rel="noopener nofollow" class="external-link" href="https://obsidian.md/" target="_blank">Obsidian</a>. This repository in Obsidian is called a Vault. When it's published, it can be described with terms such as <a data-tooltip-position="top" aria-label="https://maggieappleton.com/garden-history/" rel="noopener nofollow" class="external-link" href="https://maggieappleton.com/garden-history/" target="_blank">Digital Garden</a>, <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Pattern_language" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Pattern_language" target="_blank">Pattern Language</a> or even Wiki. This site has been translated straight from my Obsidian Vault into a WWW-publishable HTML with Nathan George's <a data-tooltip-position="top" aria-label="https://github.com/KosmosisDire/obsidian-webpage-export?tab=readme-ov-file" rel="noopener nofollow" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export?tab=readme-ov-file" target="_blank">HTML Export Plugin</a>. It is then hosted in and published with <a data-tooltip-position="top" aria-label="https://github.com/about" rel="noopener nofollow" class="external-link" href="https://github.com/about" target="_blank">GitHub</a> and it's Pages functionality. <br>Info
-Not everything that i produce will be published. This site itself is a static epoch of my Vault and has to be updated into the web whenever needed.
-The project has been started: 1.1.2025<br>
-Last web update: 8.3.2025
-<br>Caution
-The functionalities of this website are not perfect. Due to technical restrictions of the plugin when translating from Obsidian flavoured Markdown to HTML (with all the third-party plugins that i use), it does not mirror my Vault perfectly. Main problems being:
-
-<br>Citations are presented as Pandoc format citation keys instead of human-readable citations
-
-<br>f.e. [@latourScienceActionHow1987] and not (Latour 1987)
-
-
-<br>Site's layout has it's quirks
-
-<br>f.e. some icons are bolded or inappropriately scaled and listings may have unnecessary line breaks
-
-
-
-<br>Contact
-Janne W. Matilainen<br>
-Lapland University Consortium<br>
-Rovaniemi, Lapland, Finland<br>
-66°28'51"N 25°43'18"E<br>
-<a data-tooltip-position="top" aria-label="mailto:janne.matilainen@lapinamk.fi" rel="noopener nofollow" class="external-link" href="https://jwmtlnn.github.io/garden/mailto:janne.matilainen@lapinamk.fi" target="_blank">janne.matilainen@lapinamk.fi</a>
-]]></description><link>https://jwmtlnn.github.io/garden/index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Sat, 08 Mar 2025 19:57:00 GMT</pubDate></item></channel></rss>
+]]></description><link>https://jwmtlnn.github.io/garden/zotero_literaturenotes/template.html</link><guid isPermaLink="false">zotero_literaturenotes/template.md</guid><dc:creator><![CDATA[Janne W. Matilainen]]></dc:creator><pubDate>Mon, 03 Mar 2025 18:29:35 GMT</pubDate></item></channel></rss>
