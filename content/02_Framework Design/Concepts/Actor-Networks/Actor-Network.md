@@ -1,0 +1,17 @@
+---
+publish: true
+created: 2025-03-23T12:53:16.144Z
+modified: 2026-11-22T10:55:58.745Z
+---
+
+An actor-network is the structure and operation of an actor-world, that is an interrelated set of entities that have been successfully [[Translation|translated]] or enrolled. These entities are [[Actor|actors]]; [[Heterogeneity|heterogeneous]], composed of animate and inanimate, human and nonhuman elements linked together for a period. It is reducible neither to an actor alone nor to a network alone, because an actor-network is simultaneously an actor whose activity is networking heterogeneous elements and a network that is able to redefine and transform what it is made of. [[@callonMappingDynamicsScience1986]];[[@callonSocietyMakingStudy1987]]
+
+[[Agency]], power, [[Society|social order]], organizations, and devices are seen as effects generated in or by these heterogeneous networks of human and nonhuman elements [[@lawNotesTheoryActor1992]]. Ultimately, a network in ANT is not a static thing, but rather the recorded movement of a thing. It is a concept or tool used for description, not the thing being described [[@latourReassemblingSocialIntroduction2005]]p.131). The actor-network then serves as a concept or a tool for describing how social phenomena are assembled and ordered.
+
+## Topology
+
+ANT challenges the concepts of Euclideanism and regionalism, which assume the world is a surface or volume divisible into principalities. It argues that entities and materials do not exist within a conformable three-dimensional space or in fixed geographical areas. ANT proposes a change in topology where entities are understood as nodes that possess as many dimensions as they have connections. In this alternative topological system, elements retain their spatial integrity by virtue of their position within a set of links or relations, rather than their volume. [[@lawAntComplexityNaming1999]].
+
+ANT's topology is thus non-Euclidean. Inspired by Deleuze's "rhizomes", [[@latourActornetworkTheoryFew1996]] suggests that modern societies possess a "fibrous, thread-like, wiry, stringy, ropy, capillary character" that cannot be captured by traditional notions of structure, layers, territories, spheres or categories. ANT aims to "reshuffle spatial metaphors" such as close and far, up and down, local and global, replacing them with associations and connections (ibid.). This results in a ontologically "flattened landscape" where the former global and local sites take on a "star-shaped aspect," existing side-by-side rather than hierarchically ordered within a three-dimensional structure [[@latourReassemblingSocialIntroduction2005]]p.212-213).
+
+From this perspective, ANT posits that there is "nothing but networks" and no "aether" in which networks should be immersed, thus the focus is on connections and transformations rather than fixed substances or structures [[@latourActornetworkTheoryFew1996]][[@latourReassemblingSocialIntroduction2005]]p.107). A consequence of this non-Euclidean perspective is ANT's critique of analyses that assume pre-given distinctions between micro- and macro-scales. It does not deny them as effects [[@latourActornetworkTheoryFew1996]]p.372) but instead, it advocates for an "analytics of scale making," where size and power are understood as outcomes of dynamic translation processes rather than inherent properties. [[@callonMappingDynamicsScience1986]]p.228.)
