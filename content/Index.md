@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-03-07T20:43:02.805Z
-modified: 2026-11-22T12:43:46.921Z
+modified: 2026-11-22T15:50:10.982Z
 ---
 
 ## Welcome! 🌱
@@ -21,12 +21,12 @@ All of this is managed in a personal knowledge base system called [Obsidian](htt
 
 > [!tip] Currently working on:
 >
-> - Revising the research plan, for
->   - Grant applications
+> - Revising the research plan
+> - Grant applications
 > - Literature survey, for
 >   - Framework design
 >   - Methods design
-> - Data gathering
+> - Pseudonymization
 
 > [!caution] Caution
 > The functionalities of this website are not perfect. Translating from Obsidian flavoured Markdown to HTML (with all the third-party plugins that i use) does not mirror my Vault perfectly. I focus on content, but will gladly hear of any hiccups in the user interface. Main problems are:
@@ -44,4 +44,4 @@ All of this is managed in a personal knowledge base system called [Obsidian](htt
 > 66°28'51"N 25°43'18"E
 > janne.matilainen@lapinamk.fi
 
-<p xmlns:cc="http://creativecommons.org/ns#" >Unless otherwise stated, this work © 2025 onwards is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" >Unless otherwise stated, contents of this work © 2025 onwards is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
